@@ -24,3 +24,7 @@ Don't miss out on these expert insights and practical tips to make your AI landi
 Here we have project screenshot :
 
 ![screenshot](screenshot.png)
+
+
+# Live Preview
+[Live view](https://ai-landing-page01.netlify.app/)
